@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Deluxe Room",
+        "id": 1,
+        "img": "https://i.ibb.co/GFzZL1t/room-1.jpg",
+        "price": 12000
+    },
+    {
+        "name": "Sundor Room",
+        "id": 2,
+        "img": "https://i.ibb.co/SX6ZQH4/room-2.jpg",
+        "price": 12000
+    },
+    {
+        "name": "Basic Room",
+        "id": 3,
+        "img": "https://i.ibb.co/dkSNsTX/room-3.jpg",
+        "price": 11000
+    },
+    {
+        "name": "Aramer Room",
+        "id": 4,
+        "img": "https://i.ibb.co/4sJ8WwJ/room-4.jpg",
+        "price": 9000
+    },
+    {
+        "name": "Standard Room",
+        "id": 5,
+        "img": "https://i.ibb.co/z2GJp4v/room-5.jpg",
+        "price": 7000
+    },
+    {
+        "name": "Fokira Room",
+        "id": 6,
+        "img": "https://i.ibb.co/c1XYy8C/room-6.jpg",
+        "price": 2000
+    }
+]
